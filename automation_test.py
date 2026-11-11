@@ -1,1 +1,0 @@
-print("Jay Ganesh... My GitHub automation journey begins!")
